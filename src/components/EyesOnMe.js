@@ -1,9 +1,9 @@
 // Code EyesOnMe Component Here
 export class EyesOnMe extends React.Component {
 
-  tickle = () => {
-      console.log('Tee hee!');
-    }
+  function focus(){
+    console.log("Good!")
+  }
 
   render() {
     return (
