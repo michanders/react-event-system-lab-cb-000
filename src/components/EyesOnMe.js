@@ -2,7 +2,11 @@
 export class EyesOnMe extends React.Component {
 
   function focus(){
-    console.log("Good!")
+    console.log("Good!");
+  }
+
+  function blur(){
+    console.log("Good!");
   }
 
   render() {
