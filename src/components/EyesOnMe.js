@@ -6,7 +6,7 @@ export class EyesOnMe extends React.Component {
   }
 
   function blur(){
-    console.log("Good!");
+    console.log("Hey! Eyes on me!");
   }
 
   render() {
