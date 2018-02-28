@@ -11,7 +11,7 @@ export class EyesOnMe extends React.Component {
 
   render() {
     return (
-      <button>Tickle me!</button>
+      <button onClick={this.focus, this.blur}></button>
     );
   }
 }
